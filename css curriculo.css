@@ -1,0 +1,52 @@
+body{
+  margin: -20;
+  color: white;
+  font-color: white;
+  font-family: verdana;
+}
+.top{
+  margin: 0;
+  background-color: #800a80;
+  width: 100%;
+  height: 30vh;
+}
+.bot{
+  background-color: #010523;
+  width: 100%;
+  height: 70vh;
+  padding-top: 50px;
+}
+table{
+  margin: auto;
+  min-height:30vh;
+}
+td{
+  vertical-align: center;
+  padding-right:30px;
+  padding-left:30px;
+  text-align: center;
+}
+a{
+  text-decoration: none;
+  color: white;
+  transition:0.2s;
+}
+a:hover{
+  color:#d97212;
+}
+h1{
+  font-size:70px;
+  text-align:center;
+}
+h5{
+  margin-top:-8px;
+  text-align: center;
+}
+p{
+text-align:center;
+  
+}
+h2{
+  text-align:center;
+  
+}
