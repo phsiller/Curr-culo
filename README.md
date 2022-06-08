@@ -5,6 +5,7 @@ https://phsiller.github.io/Projeto-B2/
 index.html: Contém o html do site.<br>
 script.js: Contém o JavaScript do site.<br>
 style.css: Contém o CSS do site.
+pasta img: pasta contendo as imagens utilizadas
 ## JavaScript:
 ### Utilizei o JavaScript para fazer um menu lateral que abre e fecha 
  (linhas 1-9)<br> Configurei o tamanho do menu e o configurei para abrir ou fechar ao clicar no botão.<br>
