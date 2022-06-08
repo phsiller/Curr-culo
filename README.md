@@ -1,4 +1,4 @@
-# Protótipo do site das refugiadas
+# Protótipo do site das refugiadas (Projeto B2)
 ## JavaScript:
 ### Utilizei o JavaScript para fazer um menu lateral que abre e fecha 
  (linhas 1-9)<br> Configurei o tamnho do menu e o configurei para abrir ou fechar ao clicar no botão.<br>
