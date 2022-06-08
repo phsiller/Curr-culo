@@ -4,7 +4,7 @@ https://phsiller.github.io/Projeto-B2/
 ## Arquivos:
 index.html: Contém o html do site.<br>
 script.js: Contém o JavaScript do site.<br>
-style.css: Contém o CSS do site.
+style.css: Contém o CSS do site.<br>
 pasta img: pasta contendo as imagens utilizadas
 ## JavaScript:
 ### Utilizei o JavaScript para fazer um menu lateral que abre e fecha 
