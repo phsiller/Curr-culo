@@ -1,6 +1,6 @@
 # Protótipo do site das refugiadas (Projeto B2)
 ## Link do site:
-https://github.com/phsiller/Projeto-B2/blob/main/README.md
+https://phsiller.github.io/Projeto-B2/
 ## Arquivos:
 index.html: Contém o html do site.<br>
 script.js: Contém o JavaScript do site.<br>
