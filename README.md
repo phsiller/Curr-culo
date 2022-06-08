@@ -1,5 +1,5 @@
 # Protótipo do site das refugiadas (Projeto B2)
-## Arquivos 
+## Arquivos:
 index.html: Contém o html do site.<br>
 script.js: Contém o JavaScript do site.<br>
 style.css: Contém o CSS do site.
